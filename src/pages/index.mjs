@@ -4,31 +4,6 @@ export const View = state => [
   div([
     h1('NONCON2020 Sponsor Deck'),
 
-    p(
-      Link({
-        text: 'Event Announcement Blogpost',
-        to: 'https://www.parallele.at/not-a-conference-not-a-conjob/',
-      }),
-    ),
-    p(Link({ text: 'NONCON2020 website', to: 'https://noncon.org' })),
-    p(Link({ text: 'Virtual noncon website', to: 'https://interspace.noncon.org' })),
-    p(
-      Link({
-        text: 'Speaker / Sponsor Signup Form',
-        to: 'https://the-commons-stack.typeform.com/to/SemYgK',
-      }),
-    ),
-    p(Link({ text: 'Our wallet address', to: 'https://etherscan.io/enslookup?q=noncon.eth' })),
-
-    p(['contact: ', Link({ to: 'mailto:info@parallele.at' }, 'info@parallele.at')]),
-
-    p([
-      'Event produced by ',
-      Link({ to: 'https://parallele.at' }, 'Parallele Polis'),
-      ' and ',
-      Link({ to: 'riat.at', text: 'riat.at' }),
-    ]),
-
     p([
       'All prices quoted are payable in Cryptocurrency of your choice,',
       ' and will not include VAT, as we are a registered non-profit.',
@@ -49,7 +24,7 @@ export const View = state => [
   ]),
 
   div({ class: 'SponsorTier' }, [
-    h2('NONCON2020 "Presented by"'),
+    h2('Tier "Presented by"'),
     h3('(One Slot @ 20,020 Euros)'),
 
     p([
@@ -84,7 +59,7 @@ export const View = state => [
   ]),
 
   div({ class: 'SponsorTier' }, [
-    h2('Corona Virus Disruption Response'),
+    h2('Tier Corona Response'),
     h3('(One Slot @ 15,020 Euro)'),
 
     h4('Fund implementation of NonCon Live Mobile Viewer App'),
@@ -165,5 +140,32 @@ export const View = state => [
     p('Logo on event roll-ups and posters'),
     p('copyright-free professional photos of your event presence'),
     p('Social media publishing during event.'),
+  ]),
+
+  div([
+    p(
+      Link({
+        text: 'Event Announcement Blogpost',
+        to: 'https://www.parallele.at/not-a-conference-not-a-conjob/',
+      }),
+    ),
+    p(Link({ text: 'NONCON2020 website', to: 'https://noncon.org' })),
+    p(Link({ text: 'Virtual noncon website', to: 'https://interspace.noncon.org' })),
+    p(
+      Link({
+        text: 'Speaker / Sponsor Signup Form',
+        to: 'https://the-commons-stack.typeform.com/to/SemYgK',
+      }),
+    ),
+    p(Link({ text: 'Our wallet address', to: 'https://etherscan.io/enslookup?q=noncon.eth' })),
+
+    p(['contact: ', Link({ to: 'mailto:info@parallele.at' }, 'info@parallele.at')]),
+
+    p([
+      'Event produced by ',
+      Link({ to: 'https://parallele.at' }, 'Parallele Polis'),
+      ' and ',
+      Link({ to: 'riat.at', text: 'riat.at' }),
+    ]),
   ]),
 ]
