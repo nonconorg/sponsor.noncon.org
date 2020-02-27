@@ -64,7 +64,7 @@ export const View = state => [
 
     h4('Fund implementation of NonCon Live Mobile Viewer App'),
 
-    p(Link({ to: 'https://github.com/videoDAC/community/issues/1' }, b('link to proposal'))),
+    Link({ to: 'https://github.com/videoDAC/community/issues/1/' }, b('link to proposal')),
 
     p([
       'This open source application can be used for any other events',
