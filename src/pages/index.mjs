@@ -165,7 +165,7 @@ export const View = state => [
       'Event produced by ',
       Link({ to: 'https://parallele.at' }, 'Parallele Polis'),
       ' and ',
-      Link({ to: 'riat.at', text: 'riat.at' }),
+      Link({ to: 'https://riat.at', text: 'riat.at' }),
     ]),
   ]),
 ]
