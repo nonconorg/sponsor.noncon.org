@@ -128,7 +128,7 @@ export const View = state => [
     p(b('6 (Six) staff passes including Off-location Sponsors Dinner (Sunday)')),
     p(b('6 (Six) pieces limited edition Parallele Polis insider brag schwag w/ NFT provenance Token')),
     p(b("4 (Four) passes for Fiaker Horse Carriage Tour of Vienna's Historical 1st District (Monday)")),
-    p([b('10 (Ten) guest passes'), '(freely distrubutable before or during event, also valid for PARTY on Saturday night)']),
+    p([b('10 (Ten) guest passes'), '(freely distributable before or during event, also valid for PARTY on Saturday night)']),
     p(b("Customizable experience - what's your idea?")),
     p([b('Large Logo '), 'on all digital & swag promo material.']),
     p('Logo on event roll-ups and posters.'),
