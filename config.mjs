@@ -4,8 +4,8 @@ export default {
   PUBLIC: 'docs',
 
   WEB_ROOT: '/',
-  URL: 'noncon.org',
-  CNAME: 'noncon.org',
+  URL: 'sponsor.noncon.org',
+  CNAME: 'sponsor.noncon.org',
 
   HOIST: ['LightSwitch', 'Gdpr'],
 
