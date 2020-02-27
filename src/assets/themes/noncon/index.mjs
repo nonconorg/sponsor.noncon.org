@@ -167,6 +167,9 @@ export default (v = {}) => {
         margin: 0,
         padding: 0,
       },
+      h2: {
+        color: v.primary.neutral,
+      },
       h3: {
         padding: '0 0 0.5em',
       },
