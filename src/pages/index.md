@@ -1,6 +1,7 @@
 <HeroImage state></HeroImage>
 
 <div>
+
 # NONCON2020 Sponsor Deck
 
 All prices quoted are payable in Cryptocurrency of your choice,
