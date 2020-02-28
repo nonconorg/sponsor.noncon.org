@@ -1,6 +1,7 @@
 export const state = {
   title: 'NonCon 2020',
   description: 'Sponsor NonCon2020, 3-6. April 2020, Vienna',
+  image: '/img/noncon2020-banner.jpg',
 
   menu: [],
   // menu: [
