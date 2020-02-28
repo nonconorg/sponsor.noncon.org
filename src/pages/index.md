@@ -169,5 +169,5 @@ while watching the livestream, with seperate audio controls for each user.
 * [Our wallet address](https://etherscan.io/enslookup?q=noncon.eth)
 * contact: [info@parallele.at](mailto:info@parallele.at)
 
-Event produced by [Parallele Polis](https://parallele.at) and [riat.at](https://riat.at)
+Event produced by [Parallele Polis](https://parallele.at)
 </div>
