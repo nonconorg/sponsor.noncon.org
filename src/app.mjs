@@ -1,6 +1,6 @@
 export const state = {
   title: 'NonCon 2020',
-  description: ['Not a Conference.', ' Not a Conjob.', ' 3-6. April 2020, Vienna'],
+  description: 'Sponsor NonCon2020, 3-6. April 2020, Vienna',
 
   menu: [],
   // menu: [
