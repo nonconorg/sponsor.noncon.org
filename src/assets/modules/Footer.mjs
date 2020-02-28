@@ -1,4 +1,4 @@
-export const View = state => {
+export const View = (state, children) => {
   const { one, two, three } = state.footer
 
   return footer({ class: 'Footer' }, [
@@ -34,6 +34,7 @@ export const View = state => {
           Link({ to: 'https://github.com/magic/core', target: '_blank', rel: 'noopener' }, 'magic'),
         ]),
       ]),
+      children,
     ]),
   ])
 }
