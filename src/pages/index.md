@@ -161,8 +161,6 @@ while watching the livestream, with seperate audio controls for each user.
 ['Gregor Žavcer', 'https://twitter.com/jssr', 'Striving towards a Society of Fair Dat'],
 ]"></Speakers>
 
-
-
 </div>
 
 <div>
