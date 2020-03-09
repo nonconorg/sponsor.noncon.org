@@ -23,9 +23,9 @@ Extrapolated expected attendance: 300
 
 </div>
 
-<div class='SponsorTier'>
+<div class="SponsorTier">
 
-## Tier "Corona Disruption Response"
+## Tier Corona Disruption Response
 ### (One Slot, 10,020 Euro)
 
 #### Sole branding of virtual conference room
@@ -35,7 +35,7 @@ We will provide livestreams from all event rooms to our virtual conference space
 where users can log in via video / audio and talk /chat with each other
 while watching the livestream, with seperate audio controls for each user.
 
-* **"presented by XX"** with logo on interspace.noncon.org
+* **presented by XX** with logo on interspace.noncon.org
 * **Sole Logo placement on Mask schwag** together w/ NONCON Logo
 * **4 (Four) staff passes** incl. Off-location Sponsors Dinner (Sunday)
 * **4 (Four) guest passes**
@@ -47,7 +47,7 @@ while watching the livestream, with seperate audio controls for each user.
 
 </div>
 
-<div class='SponsorTier'>
+<div class="SponsorTier">
 
 ## Tier One
 
@@ -73,7 +73,7 @@ while watching the livestream, with seperate audio controls for each user.
 
 </div>
 
-<div class='SponsorTier'>
+<div class="SponsorTier">
 
 ## Tier Two
 ### (Five Slots @ 3,020 Euro / slot)
@@ -92,7 +92,7 @@ while watching the livestream, with seperate audio controls for each user.
 
 </div>
 
-<div class='SponsorTier'>
+<div class="SponsorTier">
 
 ## Tier Three
 ### (Ten Slots @ 1,020 Euro / slot)
@@ -120,4 +120,5 @@ while watching the livestream, with seperate audio controls for each user.
 * contact: [info@parallele.at](mailto:info@parallele.at)
 
 Event produced by [Parallele Polis](https://parallele.at)
+
 </div>
