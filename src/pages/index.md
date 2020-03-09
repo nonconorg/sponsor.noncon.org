@@ -4,7 +4,7 @@
 
 # NONCON2020 Sponsor Deck
 
-All prices quoted are payable in Cryptocurrency of your choice,
+All prices quoted are payable in ETH or DAI,
 and will not include VAT, as we are a registered non-profit.
 
 Which means your support is potentially tax-deductible, based on your jurisdiction. Yay!
@@ -13,10 +13,10 @@ Which means your support is potentially tax-deductible, based on your jurisdicti
 
 (as of 27.02.20)
 
-* current applications to attend: 60
-* current number of confirmed speakers: 18
-* sponsor applications: 10
-* community partners: 17
+* current applications to attend: 80
+* current number of confirmed speakers: 33
+* finacial sponsors: 5
+* community partners: 25
 * media partners: 1
 
 Extrapolated expected attendance: 300
@@ -24,36 +24,10 @@ Extrapolated expected attendance: 300
 
 <div class='SponsorTier'>
 
-## Tier "Presented by"
-### (One Slot @ 20,020 Euros)
 
-We don't need this "Ultra Tier" amount to produce the event,
-the sponsor tiers below will cover that.
 
-This is about Prestige, Honor, and Recognition.
-
-The Institution, Foundation, Product (or Whale) that sponsor this slot
-does so because they recognize the skillset, values,
-and goals of the Parallele Polis Team,
-and want to support their efforts for the rest of the 2020 calendar year.
-We won't accept this contribution from just ANYONE though. We'll have to respect you too.
-
-There is no booth, workshop, or other services offered for this slot
-beyond visual branding in meatspace and cyber-cyberspace.
-The only Perk is that we will carry the commitment over to
-the main Parallele Polis website,
-and all venues we work and produce events in this year.
-
-It's essentially a Grant,
-with no strings attached because you trust us to use the donation wisely,
-in part to compensate our volunteers during the event,
-and to give the speakers a token amount to cover their costs.
-</div>
-
-<div class='SponsorTier'>
-
-## Tier Corona Disruption Response
-### (One Slot, 12,020 Euro)
+## Tier "Corona Disruption Response"
+### (One Slot, 10,020 Euro)
 
 #### Sole branding of virtual conference room
 
@@ -77,7 +51,7 @@ while watching the livestream, with seperate audio controls for each user.
 
 ## Tier One
 
-### (Three Slots @ 10,020 Euro / slot)
+### (Three Slots @ 5,020 Euro / slot)
 
 * **15 mins to explain your tech** at the Opening Ceremony (Friday)
 * **One four hour workshop slot**
@@ -101,7 +75,7 @@ while watching the livestream, with seperate audio controls for each user.
 <div class='SponsorTier'>
 
 ## Tier Two
-### (Five Slots @ 5,020 Euro / slot)
+### (Five Slots @ 3,020 Euro / slot)
 
 * **(optional: add additional 2,020 Euro hack bounty for your tech,
   payable directly to winner, announced on Monday)**
@@ -129,33 +103,6 @@ while watching the livestream, with seperate audio controls for each user.
 * Logo on event roll-ups and posters
 * copyright-free professional photos of your event presence
 * Social media publishing during event.
-</div>
-
-<div>
-
-
-### Approved speakers list:
-(as of 27.02.20)
-
-
-| Name               | Title   |
-| ------------------ | --------------------------------------------------- |
-| Artem Vorotnikov   | OpenEthereum onboarding and development             |
-| Anja Blaj          | Legal challenges and dimensions for virtual conducts|
-| Stefan Starflinger | Deep dive into the ETH 2.0 Beacon Chain explorer    |
-| Jacob Czepluch     | Layer 2 scalability and payment channels            |
-| Maria Magenes      | DeFi and the role of Maker                          |
-| Stina Gustafsson   | Blockchain and art                                  |
-| Alessandromlt      | DFO: The Next wave of Dapps without founders        |
-| Matilde Park       | Interfaces for sovereign & p2p communities stacks   |
-| John Adler         | Fuel: Scaling Ethereum with Optimistic Rollups      |
-| Edgar Kamitov      | Multi-Party Computation in cryptowallets            |
-| Thomas Zeinzinger  | Minerva - Digital Wallet Multiverse                 |
-| johba              | layer-2, rollups, plasma, onboarding-ux             |
-| Afri Schoeden      | Görli TBD                                           |
-| Griff Green        | Using Token Engineering to align incentives around non-profit causes|
-| Carol-Ann          | Substrate: The Blockchain Framework                 |
-| TBD                | Aeternity's Sophia smart contract language          |
 </div>
 
 <div>
