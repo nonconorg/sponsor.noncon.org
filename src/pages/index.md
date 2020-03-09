@@ -11,10 +11,10 @@ Which means your support is potentially tax-deductible, based on your jurisdicti
 
 ### Some numbers:
 
-(as of 27.02.20)
+(as of 09.03.20)
 
 * current applications to attend: 80
-* current number of confirmed speakers: 33
+* current number of [confirmed speakers](https://noncon.org/#speakers): 33
 * finacial sponsors: 5
 * community partners: 25
 * media partners: 1
