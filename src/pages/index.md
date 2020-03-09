@@ -11,7 +11,7 @@ Which means your support is potentially tax-deductible, based on your jurisdicti
 
 ### Some numbers:
 
-(as of 27.02.20)
+(as of 09.03.20)
 
 * current applications to attend: 80
 * current number of confirmed speakers: 33
