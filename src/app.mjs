@@ -9,10 +9,10 @@ export const state = {
   //   { to: '/events/', text: 'Events' },
   // ],
 
-  // theme: 'light',
-  // pageClass: {
-    // light: true,
-  // },
+  theme: 'light',
+  pageClass: {
+    light: true,
+  },
 
   hero: {
     // title: 'Not a Conference. Not a Conjob.',
