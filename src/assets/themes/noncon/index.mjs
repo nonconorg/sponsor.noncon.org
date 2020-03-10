@@ -1,6 +1,6 @@
 export const vars = {
-  black: '#010101',
-  white: '#FEFEFE',
+  black: '#000000',
+  white: '#ffffff',
 
   neutral: '#c4c4c4',
 
@@ -12,13 +12,13 @@ export const vars = {
   },
 
   text: {
-    dark: '#FAFAFA',
+    dark: '#FFFFFF',
     light: '#000000',
   },
 
   background: {
     dark: '#000000',
-    light: '#FAFAFA',
+    light: '#FFFFFF',
   },
 
   primary: {
@@ -28,7 +28,7 @@ export const vars = {
   },
 
   link: {
-    dark: '#FAFAFA',
+    dark: '#FFFFFF',
     light: '#000000',
 
     hover: {
@@ -37,7 +37,7 @@ export const vars = {
     },
   },
 
-  borderColor: '#FAFAFA',
+  borderColor: '#FFFFFF',
 
   maxWidth: '1200px',
 }
@@ -57,6 +57,11 @@ export default (v = {}) => {
       backgroundColor: v.text.dark,
       color: v.background.dark,
       textShadow: 'none',
+
+      '.light &&': {
+        color: v.text.dark,
+        backgroundColor: v.background.dark,
+      },
     },
 
     '*': {
@@ -80,6 +85,7 @@ export default (v = {}) => {
 
     a: {
       color: vars.primary.neutral,
+      whiteSpace: 'normal',
     },
 
     img: {
@@ -124,6 +130,35 @@ export default (v = {}) => {
       },
     },
 
+    '.Speakers': {
+      h3: {
+        textAlign: 'center',
+        padding: 0,
+      },
+      p: {
+        textAlign: 'center',
+        width: '100%',
+      },
+    },
+
+    '.SponsorTier': {
+      'h2, h3': {
+        margin: 0,
+        padding: 0,
+      },
+      h2: {
+        color: v.primary.neutral,
+      },
+      h3: {
+        padding: '0 0 0.5em',
+      },
+    },
+
+    '.small': {
+      maxHeight: '300px',
+      width: 'auto',
+    },
+
     '.Footer': {
       fontSize: '1em',
       width: '100%',
@@ -162,24 +197,6 @@ export default (v = {}) => {
       },
     },
 
-    '.SponsorTier': {
-      'h2, h3': {
-        margin: 0,
-        padding: 0,
-      },
-      h2: {
-        color: v.primary.neutral,
-      },
-      h3: {
-        padding: '0 0 0.5em',
-      },
-    },
-
-    '.small': {
-      maxHeight: '300px',
-      width: 'auto',
-    },
-
     '.Gdpr': {
       '.ShowHide': {
         width: '1.5em',
@@ -199,6 +216,10 @@ export default (v = {}) => {
 
       body: {
         fontSize: '20px',
+      },
+
+      '.Footer': {
+        fontSize: '0.9em',
       },
     },
 
