@@ -1,11 +1,10 @@
 export const View = () =>
-  Link({ class: 'HeroImage', to: '/' }, Img({ height: 300, src: '/img/noncon2020-banner.jpg' }))
+  Link({ class: 'Hero', to: '/' }, Img({ height: 300, src: '/img/noncon2020-banner-light.jpg' }))
 
 export const style = vars => ({
   width: '100%',
   display: 'block',
   padding: '1.5em 0 0',
-  backgroundColor: vars.background.dark,
 
   img: {
     display: 'block',

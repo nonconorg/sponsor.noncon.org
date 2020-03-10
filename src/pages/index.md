@@ -1,4 +1,4 @@
-<HeroImage state></HeroImage>
+<Hero state></Hero>
 
 <div>
 
