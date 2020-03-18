@@ -1,20 +1,12 @@
 {
   "css": "sha384-+yFHPmF/G/J1aEK7SPKHLrVAAkLSzuPdeg/QVfcVNxDeJ5kGjOUNnhbx8l418zXe",
-  "js": "sha384-bxy22fScC7RP3iTQyQazADk8sUGbQU+HgjvgUkwC+2K43EIjngem1c16FkjUVS8x",
+  "js": "sha384-bomyl9mAmjE/Bu/wpswl7umwss86q8vmtVNfBLzdYO4b7VJiYrrMs9uniintow3X",
   "pages": {
-    "/": "sha384-qa1Tbg4xx95ovPeGXUOBi1Rv1rB50ckJpQFdvy72R8Xkxx4Zj7uTgnDlyTvUbaWi",
-    "/404/": "sha384-b0tqHo+VKp6otfK/f6qtac/KhhI8mkLMQT9FHbY5UrnpNT8iT/Mq/PN6tPuiBZws"
+    "/": "sha384-QdoXGxFxnNHFNXfI/Es/5MKkn9H31QxbfX0OtSKjr7dmSL9zwo6+HwUQkgogqZHX",
+    "/404/": "sha384-IUuwcIIIC1UGs3uHNK5cOBb1nawN/Q+Z1YIWbQu/SrM+Ilv6JQeGMPZ0ulVoRLfn"
   },
   "static": {
-    "/CNAME": "sha384-1v8eud+neM4KogcbMMUaECz1+oDqcCD8Q1/F3U01Fp3x865UfcUldQkuew/FH5a0",
-    "/favicon.ico": "sha384-cYb/9pOAekISt5v8um7CpG6lUZxFHo/roPQu1SHk5ZmF75JxnLw6odxuKLO3lvML",
-    "/img/bandana.png": "sha384-+YEzoy98owBnpikkJ3mJV5xyU2A6TUxqMRlHq5pY6Jx1xWPD9LGbvjN1wWbj1h/t",
-    "/img/noncon2020-banner-dark.jpg": "sha384-dcB1HJ/YDa/Nu39+KLTBR+3pLYXs/g36X6BdUmomquTpNMn1+kAGhnennilcolR6",
-    "/img/noncon2020-banner-light.jpg": "sha384-fWdEMULuACyq0ywh1CtiKgzg0PtfDX7kvRwqLANsdSXdHKV3GcarmD7alu43TyjO",
-    "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
-    "/noncon2020-logo-white-bg.jpg": "sha384-86NY4wSqdIjCPRyuNWQfQS8A3r1ZmL1M4A6q09dpAakjH0QNVxGvnXKGJ2IQvBX4",
-    "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-Q1G2/MDxt87qOl7YWknUx6upNEqD5JRuUs3iRTjWmbIRWRTJEKpJTEIExU5t1OQd",
-    "/sitemap.xml": "sha384-fSy8VIWbtMRYyzDUwi1zTa7xdFELtkasXsk8ecxmEyzUuJBgQvb2khcC2IWis1ho"
+    "/sitemap.xml": "sha384-9BaNFGEbO1cy5J6nTOMQ4XP5ZXJfdenyfDMcKBhcS1cHJPli/IwxnCj5hLOKKn5Q"
   }
 }
